@@ -1,8 +1,6 @@
 # Git-Repo
 ---
 
-#  DOWNLOADABLE README.md CONTENT
-
  Follow steps below after the content.
 
 ---

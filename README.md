@@ -1,4 +1,4 @@
-# Git-Repo
+# git-training-lab
 ---
 
 # Follow steps below after the content.

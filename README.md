@@ -1,7 +1,7 @@
 # Git-Repo
 ---
 
- Follow steps below after the content.
+# Follow steps below after the content.
 
 ---
 
